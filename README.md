@@ -1,4 +1,5 @@
 ### Hi there 👋
+My name is Bektu G. Dida
 My name is originated from Afan Oromo Language, and It refers to a person who knows/understands. Well I am just like my name I always thrive to know new things and understand my environment. 
 - 🔭 I’m currently working as a Lecturer in Electromechanical Engineering  
 - 👯 I’m looking to collaborate on AI in Agriculture (Enset)
