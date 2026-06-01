@@ -1,11 +1,9 @@
 ### Hi there 👋
-My name is Bektu G. Dida and 
-My name originated from Afan Oromo, and it is translated as knowlegeable or it refers to a person who knows/understands. Well I am just like my name I always thrive to know new things and understand my environment. 
-- 🔭 I’m currently working as a Lecturer in Electromechanical Engineering  
-- 👯 I’m looking to collaborate on AI in Agriculture (Enset)
-- 🤔 I’m looking for help with Enset fermenter Design and Prototype Development
-- 💬 Ask me about Nothing, Lets discuss about everything! 
+My name is Bektu G. Dida, I am doing my Masters in Innovative Technology Engineering at SETU 
+- 🔭 I have a background in Electromechanical Engineering and aspire to be a senior R&D Engineer.
+- 👯 I’m working in automation and process dynamic control, currently focused in Nanotechnology
+- 🤔 I would love to collaborate on Technology for Agriculture in Africa, specifically Enset fermenter Design and Prototype Development
+- 💬 Ask me about Nothing, but let's discuss everything! 
 - 📫 How to reach me: bektugudeta@gmail.com
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: God loves Z-World!
-
